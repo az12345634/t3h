@@ -1,0 +1,6 @@
+G:\Khoá luận tốt nghiệp\Phúc Công_Quản lý nhân viên\QUANLYNHANVIEN\Datalayer\bin\Debug\Datalayer.dll
+G:\Khoá luận tốt nghiệp\Phúc Công_Quản lý nhân viên\QUANLYNHANVIEN\Datalayer\bin\Debug\Datalayer.pdb
+G:\Khoá luận tốt nghiệp\Phúc Công_Quản lý nhân viên\QUANLYNHANVIEN\Datalayer\obj\Debug\Datalayer.csproj.AssemblyReference.cache
+G:\Khoá luận tốt nghiệp\Phúc Công_Quản lý nhân viên\QUANLYNHANVIEN\Datalayer\obj\Debug\Datalayer.csproj.CoreCompileInputs.cache
+G:\Khoá luận tốt nghiệp\Phúc Công_Quản lý nhân viên\QUANLYNHANVIEN\Datalayer\obj\Debug\Datalayer.dll
+G:\Khoá luận tốt nghiệp\Phúc Công_Quản lý nhân viên\QUANLYNHANVIEN\Datalayer\obj\Debug\Datalayer.pdb
